@@ -1,0 +1,1 @@
+export const ITEM = "api/item/{id}";
